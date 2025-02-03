@@ -1,7 +1,7 @@
 var farn= prompt("Enter the Fahrenheight : ");
 
 var cels= (farn-32) * (5/9);
-document.write("Celsius = "+ cels);
+document.write("Celsius = "+ cels + "<br>");
 
 
 var cel= prompt("Enter Celsius : ");
